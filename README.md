@@ -38,6 +38,8 @@ influencer-products-template/
 ├── assets/
 │   ├── css/
 │   │   ├── style.min.css     # Compiled CSS styles
+│   ├── js/
+│   │   ├── script.js         # custom js file
 │   ├── img/                  # Image assets
 │
 ├── index.html                # Main HTML file
